@@ -2,7 +2,7 @@
 
 Keylogger made in python that works on Linux and Windows
 
-# Usage for linux
+# Usage for Linux
 
 You probably don't have certain libraries for this script, so install with:
 
@@ -10,9 +10,16 @@ You probably don't have certain libraries for this script, so install with:
 pip3 install email-to pynput smtplib
 ```
 
+We run the keylogger
+
 ```
 python3 Keylogger.py
 ```
+
+![image](https://github.com/MT-256/Keylogger/assets/127991386/f711633b-3a56-489b-9085-8e206be72dbc)
+
+
+We receive the response by email
 
 ![image](https://github.com/MT-256/Keylogger/assets/127991386/a6d1b3f8-c583-4f72-8fe6-23bd35738be4)
 
